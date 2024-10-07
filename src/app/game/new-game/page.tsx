@@ -1,9 +1,7 @@
 'use client'
 
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import './styles.css';
-import { on } from 'events';
-import Square from './components/square';
 import Board from './components/Board'; 
 
 

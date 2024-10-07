@@ -1,8 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import '../styles.css';
-import { on } from 'events';
 import Square from './square';
-import exp from 'constants';
 
 const Board = ({ width, height, xIsNext, squares, isExistedWinner, isEndGame, isFull, winningLine, onPlay,  }: 
     { width: number, height: number, xIsNext: boolean, 

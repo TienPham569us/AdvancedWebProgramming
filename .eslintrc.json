@@ -15,8 +15,7 @@
     //"quotes": ["warn", "single"],
     "semi": ["warn", "always"],
     "no-console": ["warn"],
-    "arrow-parens": ["warn", "always"],
-    "no-unused-vars": ["warn"]
+    "arrow-parens": ["warn", "always"]
     // Add other rules as needed
   }
   // "overrides": [
